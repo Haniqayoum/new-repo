@@ -1,0 +1,59 @@
+/* .content1{
+    background-color: bisque;
+    font-size: larger;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    
+}
+.content2{
+    background-color: cornflowerblue;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.content3{
+    background-color: darkslategrey;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content4{
+    background-color: #DE8F5F;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+div{
+    display: inline-block;
+}
+.content5{
+    height: 200px;
+    width: 200px;
+    background-color: #E4E0E1;
+    margin-top: 20px ;
+    border: 3px solid;
+    border-radius: 5px;
+    position: relative;
+    bottom: 10px;
+    position: fixed;
+    top: 10px;
+}
+.content6{
+    height: 200px;
+    width: 200px;
+    background-color: #605678;
+    margin-top: 20px ;
+    border: 3px solid;
+    border-radius: 5px;
+    position: relative;
+    left: 500px;
+}
+.content7{
+    height: 200px;
+    width: 200px;
+    background-color: #A2D2DF;
+    margin-top: 20px ;
+    border: 3px solid;
+    border-radius: 5px;
+    position: relative;
+    left: 50px;
+}
+
+
+
