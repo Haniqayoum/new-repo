@@ -1,0 +1,30 @@
+
+/* .border0{
+background-image: url('./assets/img-2.avif');
+background-repeat: no-repeat;
+height: 1000px;
+width: 300px;
+position: absolute;
+left: 2000px;
+} */
+/* .container{
+background-color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+.box{
+    font-size: larger;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: center;
+}
+.box div{
+    background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  border: 1px solid black;
+}
